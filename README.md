@@ -1,3 +1,3 @@
 # week2git
 
-having fun here
+conflict-resolution
